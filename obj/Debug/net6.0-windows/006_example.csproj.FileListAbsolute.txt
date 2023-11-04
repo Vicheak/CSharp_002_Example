@@ -1,0 +1,17 @@
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\bin\Debug\net6.0-windows\006_example.exe
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\bin\Debug\net6.0-windows\006_example.deps.json
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\bin\Debug\net6.0-windows\006_example.runtimeconfig.json
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\bin\Debug\net6.0-windows\006_example.dll
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\bin\Debug\net6.0-windows\006_example.pdb
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\obj\Debug\net6.0-windows\006_example.csproj.AssemblyReference.cache
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\obj\Debug\net6.0-windows\_006_example.Form1.resources
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\obj\Debug\net6.0-windows\006_example.csproj.GenerateResource.cache
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\obj\Debug\net6.0-windows\006_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\obj\Debug\net6.0-windows\006_example.AssemblyInfoInputs.cache
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\obj\Debug\net6.0-windows\006_example.AssemblyInfo.cs
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\obj\Debug\net6.0-windows\006_example.csproj.CoreCompileInputs.cache
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\obj\Debug\net6.0-windows\006_example.dll
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\obj\Debug\net6.0-windows\refint\006_example.dll
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\obj\Debug\net6.0-windows\006_example.pdb
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\obj\Debug\net6.0-windows\006_example.genruntimeconfig.cache
+D:\Target document\C# programming\Revision\C# Windows Form Init\006_example\obj\Debug\net6.0-windows\ref\006_example.dll
